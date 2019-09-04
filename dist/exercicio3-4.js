@@ -1,7 +1,6 @@
-var n;
-if (true) {
-    console.log("O número é par");
-}
-else {
-    console.log("O número é impar");
-}
+var parimpar = function (num) {
+    if (num % 2 == 0)
+        return true;
+    else
+        return false;
+};

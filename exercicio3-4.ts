@@ -1,8 +1,7 @@
-let n: boolean; 
+let parimpar = function(num:number) :boolean{
+if (num %2 == 0)
+    return true
+else 
+    return false
+}
 
-if (true){
-    console.log("O número é par")
-}
-else (true) {
-    console.log("O número é impar" )
-}
