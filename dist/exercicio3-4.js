@@ -1,5 +1,5 @@
-var n = 8;
-if (n % 2 == 0) {
+var n;
+if (true) {
     console.log("O número é par");
 }
 else {

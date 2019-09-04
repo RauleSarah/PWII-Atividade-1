@@ -1,8 +1,8 @@
-let n: number = 8; 
+let n: boolean; 
 
-if (n %2 == 0){
+if (true){
     console.log("O número é par")
 }
-else {
+else (true) {
     console.log("O número é impar" )
 }
