@@ -8,3 +8,4 @@ exports.parimpar = function (num) {
         return false;
 };
 exports.fcubo = function (CUBO) { return (Math.pow(CUBO, 3)); };
+console.log("O Cubo \u00E9 " + exports.fcubo(CUBO));

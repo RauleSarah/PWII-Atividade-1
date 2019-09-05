@@ -9,6 +9,6 @@ export let parimpar = function(num:number) :boolean{
         return false
     }
 export let fcubo= (CUBO:number) => ( Math.pow(CUBO,3) )
-
+console.log(`O Cubo é ${fcubo(CUBO)}`)
 
 
