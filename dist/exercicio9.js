@@ -8,4 +8,3 @@ exports.parimpar = function (num) {
         return false;
 };
 exports.fcubo = function (CUBO) { return (Math.pow(CUBO, 3)); };
-console.log("A \u00E1rea \u00E9 " + exports.fcubo(CUBO));
