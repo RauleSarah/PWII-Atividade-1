@@ -4,3 +4,4 @@ var parimpar = function (num) {
     else
         return false;
 };
+console.log("O número é  " + parimpar(6));

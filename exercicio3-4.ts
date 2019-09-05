@@ -4,4 +4,4 @@ if (num %2 == 0)
 else 
     return false
 }
-
+console.log("O número é  " + parimpar(6))
